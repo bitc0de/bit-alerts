@@ -1,2 +1,20 @@
-# bit-alerts
-Standalone alerts/notification system for FiveM 
+# BIT-ALERTS
+A freely available script created by BIT for notifications in Fivem.
+
+## Discord
+https://discord.com/invite/qApkS3ypxs
+
+## Image
+![Logo]([https://i.ibb.co/WFpy418/interact.gif](https://i.ibb.co/qFyrWYz/bitalert.png))
+
+## Trigger
+
+**from client**
+```lua
+TriggerEvent("bit-alerts:sendAlert", "check", "Success", "This is an success notification", 5000)
+```
+
+**from server**
+```lua
+TriggerClientEvent("bit-alerts:sendAlert", playerID, "check", "Success", "This is an success notification", 5000)
+```
