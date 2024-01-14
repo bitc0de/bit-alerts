@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-client_scripts {'config/shared.lua', 'config/c_config.lua', 'client/main.lua'}
+client_scripts {'client/main.lua'}
 
 ui_page "html/index.html"
 
