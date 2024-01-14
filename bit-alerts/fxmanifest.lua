@@ -5,4 +5,4 @@ client_scripts {'config/shared.lua', 'config/c_config.lua', 'client/main.lua'}
 
 ui_page "html/index.html"
 
-files {'html/index.html', 'html/script.js', 'html/style.css', 'html/assets/*'}
+files {'html/index.html', 'html/script.js', 'html/assets/*'}
