@@ -5,7 +5,7 @@ A freely available script created by BIT for notifications in Fivem.
 https://discord.com/invite/qApkS3ypxs
 
 ## Image
-![Logo]([https://i.ibb.co/WFpy418/interact.gif](https://i.ibb.co/qFyrWYz/bitalert.png))
+![Image](https://i.ibb.co/qFyrWYz/bitalert.png)
 
 ## Trigger
 
